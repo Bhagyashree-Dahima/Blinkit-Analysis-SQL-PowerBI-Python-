@@ -75,3 +75,6 @@ The goal was to explore patterns, clean and transform the dataset, and build an 
 📌 Data Analytics Enthusiast | Skilled in Python, SQL, Excel, Power BI  
 
 🔗 [LinkedIn](www.linkedin.com/in/bhagyashree-dahima-337282291) 
+
+<img width="1264" height="724" alt="Screenshot 2025-09-26 103232" src="https://github.com/user-attachments/assets/1eaee8af-3e62-4d6f-9eee-b0fab9d29e9d" />
+
